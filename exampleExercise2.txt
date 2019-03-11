@@ -1,0 +1,26 @@
+import numpy as np
+## Numpy is a mathematical library
+
+np.array([[2,4,6],[1,3,5]]) 
+# creates 2x3 matrix capable of 
+# matrix operations
+
+xValues = [] # empty array
+xValues.append(np.zeros(10))
+# Add 10 elements equal to 0
+
+print(xValues[0][0])
+# [row][column]
+
+for i in range(9):
+	print(i)
+	iter = xValues[0][i]+1
+	xValues[0][i+1] = iter
+# Tab indicate dependency on 
+# prior statements.
+
+tex = open('newFile.txt',"w")
+tex.write('array values \n')
+tex.write(str(xValues))
+# write to file with strings
+# or numerical values

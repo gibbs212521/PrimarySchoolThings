@@ -1,0 +1,9 @@
+Practice Programming Basics 
+
+by
+Programming  
+a Function that
+Determines the Largest
+Palindrome Created by
+the Product of
+2 Three Digit Numbers

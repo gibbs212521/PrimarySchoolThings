@@ -1,0 +1,26 @@
+## User Input Below ##
+## Press F5 to run program ##
+print('Hello World!') 	# Comment-hash
+
+print(33 > 22) # True
+print(bool(33 < 22)) # 0 = False
+print((33>22)or(33<22)) # or = OR
+testAND = (33>22)and(33<22) # and = AND
+print(testAND) # print value testAND
+testNOT = 33 != 22 # assignment operator
+print(testNOT) # ! acts as NOT Gate
+print(testAND != True) # !and |- True
+print( not (33 == 22))
+
+print('\n Arithmetic Operators \n')
+print(3 + 2) # notice '\n' shifts line
+print(3 - 2) 
+print(3 * 2) # multiplication
+print(3 ** 2) # exponents
+print(int(12 / 3)) # division
+
+# int = integer data type
+# double = double data type
+# float = float data type
+# bool = boolean data type
+# str = string data type

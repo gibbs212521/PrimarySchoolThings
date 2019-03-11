@@ -1,0 +1,31 @@
+class Holder():
+   """ Class Description"""
+   
+   def __init__(self,Var,*args,
+                file,**kwargs,
+                Var2,fileWrite):
+# *args = arguments
+# **kwargs = key word arguments
+   
+   self.Var = Var
+   self.Var2 = Var2
+   self.file = file
+   self.fileWrite = fileWrite
+   
+   def add_line(self,newLine):
+
+   self.newLine = newLine
+   self.fileWrite.append(newLine)
+
+ClassEx=Holder(Var,someArgu,'file.txt',
+               'some word',Var2,
+               'newFile.txt')
+
+# Also, one may compartmentalize code
+# in modules to prevent speghetti code
+
+
+
+
+
+

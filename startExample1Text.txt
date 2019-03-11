@@ -1,0 +1,6 @@
+An intro to basic syntax.
+
+Hello World
+Logic Operators
+Arithmetic Operators
+

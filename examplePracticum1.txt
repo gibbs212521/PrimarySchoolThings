@@ -1,0 +1,26 @@
+# The task:
+#
+# def palindromeFunc(#ofDigits)
+# 	HINT:
+# 
+# Use for loops to cycle thru
+# possible 3 digit factors.
+# 
+# For each iteration test the 
+# product to see if it is a 
+# palindrome.
+# 
+# TACOCAT backwards is TacoCat
+# 
+# Use an if (): statement 
+# 
+# ex.
+# ans = []
+# Prod = str(product)
+# for k in range(len(Prod)):
+#    if Prod[i] == Prod[-i-1]
+#       ans.append(1)
+#    if np.sum(ans) > 0:
+#       pal.append(product)
+# 
+# ## np.max(pal)

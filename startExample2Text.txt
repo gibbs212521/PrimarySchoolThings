@@ -1,0 +1,5 @@
+An Intro to Numerical Syntax
+
+Data Types
+Importing Modules or Libraries
+input / output (i/o)

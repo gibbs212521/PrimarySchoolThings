@@ -1,0 +1,2 @@
+Hover the pointer over any button 
+in order to read its description.
